@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love Coding
 🧛‍♀️ About ME
 I have complited a Diploma in a Computer Science and Engineering and plan to continue my studies in this field.
-I’m currently learning and working with HTML, CSS, JS, Python , php (django, laravel) database etc.
+I’m currently learning and working with HTML, CSS, JS, Python (django) ,php (laravel) database etc.
 I am continuosly imporving my skill to become a professional Full Stack Developer
 
 
