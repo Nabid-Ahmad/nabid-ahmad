@@ -8,8 +8,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Coding
 🧛‍♀️ About ME
-I have complited a Diploma in a Computer Science and Engineering and plan to continue my studies in this field.
-I’m currently learning and working with HTML, CSS, JS, Python (django) ,php (laravel) database etc.
+I have completed a Diploma in a Computer Science and Engineering and plan to continue my studies in this field.
+I’m currently working with HTML, CSS, JS, Python (django) ,php (laravel) etc.
 I am continuosly imporving my skill to become a professional Full Stack Developer
 
 
