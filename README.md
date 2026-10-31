@@ -1,6 +1,5 @@
  Hi I'M 👋 Nabid Ahmad
 - 🔭 I’m currently working on Web Development Project
-- 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on Web Development Project
 - 🤔 I’m looking for help with Web Development
 - 💬 Ask me about Web Development
